@@ -26,3 +26,5 @@ art/build_html.bat
 art/build_html-debug.bat
 
 .haxelib/
+
+export/
