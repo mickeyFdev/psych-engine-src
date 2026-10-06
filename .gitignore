@@ -5,8 +5,7 @@ art/buildScripts/build_x32-officialrelease.bat
 art/buildScripts/build_x64-officialrelease.bat
 art/buildScripts/test_x64-debug-officialrelease.bat
 
-### VS Code
-export/*
+### VSCode
 .vscode/*
 .haxelib/
 .github/
@@ -26,5 +25,4 @@ vs_Community.exe
 art/build_html.bat
 art/build_html-debug.bat
 
-export/
 .haxelib/
